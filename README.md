@@ -42,6 +42,15 @@ Passionate developer with expertise in full-stack development. I build innovativ
 
 ---
 
+## Connect With Me
+
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Madraz02&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-raziq-6a82b6249/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raziq.ahmad20@gmail.com)
+
 </div>
+
+---
+
+<!-- Visitor Counter (Hidden) -->
+[![](https://visitcount.itsvg.in/api?id=Madraz02&icon=0&color=0)](https://visitcount.itsvg.in)
